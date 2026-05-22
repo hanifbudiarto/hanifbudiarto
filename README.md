@@ -6,6 +6,7 @@
 🚀 Building SAM IoT — an IoT platform for device developers and enterprise integrations <br/>
 ☁️ Interested in AWS, SRE, MQTT Architecture, and AI-assisted Development <br/>
 🛠️ Working with medical device integrations, calibration systems, and scalable backend infrastructure <br/>
+🎮 I also build small experimental web games and interactive projects — try them here: [hanifbudiarto.github.io](https://hanifbudiarto.github.io) <br/>
 🙌 LinkedIn: [hanif-budiarto](https://www.linkedin.com/in/hanif-budiarto-b58b4a10a/) <br/>
 📩 Email: m.hanifbudiarto@gmail.com
 
@@ -35,7 +36,12 @@ Architecture & Tools: Supabase, WebSocket, REST API, Webhook, Multi-tenant SaaS,
   A structured documentation and AI workflow system designed to reduce knowledge vaporization and improve long-term maintainability across software projects using SRS-driven development and AI context engineering.  
   **Tech Stack:** Markdown, Notion, GitHub, AI Workflow Design
 
+- **Interactive Web Games & Experiments**  
+  A collection of small browser-based games, experiments, and interactive experiences exploring gameplay, UI interactions, and creative frontend ideas.  
+  🌐 **Play here:** [hanifbudiarto.github.io](https://hanifbudiarto.github.io)
+
 - Will be updated soon...
+
 ---
 
 <!--
