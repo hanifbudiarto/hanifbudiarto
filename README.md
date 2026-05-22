@@ -35,7 +35,7 @@ Architecture & Tools: Supabase, WebSocket, REST API, Webhook, Multi-tenant SaaS,
   A structured documentation and AI workflow system designed to reduce knowledge vaporization and improve long-term maintainability across software projects using SRS-driven development and AI context engineering.  
   **Tech Stack:** Markdown, Notion, GitHub, AI Workflow Design
 
-- Need to be updated soon...
+- Will be updated soon...
 ---
 
 <!--
